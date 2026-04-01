@@ -1,1 +1,57 @@
 
+Title:
+Building and Deploying a Smart Travel Guide Web App using Azure Vision, Translation and Sentiment Analysis.
+
+Aim:
+To build and deploy a Smart Travel Guide Web Application that uses Azure Vision, Translation, and Sentiment Analysis services to analyze travel images, translate text, and understand user feedback.
+
+Tools / Software Required:
+Microsoft Azure Account
+Azure Cognitive Services
+Azure Vision API
+Azure Translator API
+Azure Text Analytics API
+Visual Studio Code / Any IDE
+Python / JavaScript
+Streamlit / Flask (Web App Framework)
+Internet Connection
+Azure Subscription Key
+Endpoint URL 
+
+Theory:
+A Smart Travel Guide Web Application helps travelers explore destinations by providing useful information such as place description, translation of foreign languages, and sentiment analysis of travel reviews.
+Microsoft Azure provides cloud-based Artificial Intelligence services that can be integrated into web applications. In this experiment, three Azure services are used:
+Azure Vision API is used to analyze travel images. It identifies landmarks, objects, and generates descriptions of images.
+Azure Translator API is used to translate foreign language text into English. This helps travelers understand signboards, menus, and travel guides written in different languages.
+Azure Text Analytics API is used to perform sentiment analysis on travel reviews. It identifies whether reviews are positive, negative, or neutral.
+The Smart Travel Guide Web App integrates all three services into a single interface. Users can upload travel images, input travel text, and analyze reviews. The app processes data using Azure services and displays results.
+This system improves travel experience by providing intelligent recommendations and multilingual support.Diagram:
+
+ 
+Procedure / Steps :
+Step 1: Create Azure Vision Resource
+
+Step 2: Create Azure Translator Resource
+
+Step 3: Create Azure Language Resource  
+
+Step 4: Create project folder in Visual Studio Code   create file travel.app and write the code   
+
+Step 5: Install required libraries   pip3 install azure-ai-vision
+pip3 install azure-ai-textanalytics
+pip3 install streamlit
+pip3 install requests
+ 
+Step 6:Test application and deploy web app
+
+Pratical Observation:
+Travel images were successfully analyzed
+Text translation worked accurately
+Sentiment analysis identified user feedback
+Web application interface functioned properly
+Integration of Azure services was successful
+Deployment completed successfully
+ 
+    
+Result:
+The Smart Travel Guide Web Application was successfully built and deployed using Azure Vision, Translation, and Sentiment Analysis services. The application analyzed images, translated text, and performed sentiment analysis effectively.
