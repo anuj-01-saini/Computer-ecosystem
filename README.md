@@ -1,4 +1,4 @@
-# PERSONAL TRAVEL GUIDER
+# SMART TRAVEL GUIDER
 🌍✈️ Smart Travel Guide Web App using Microsoft Azure AI
 An AI-powered travel assistant that helps travelers explore destinations intelligently using Image Analysis, Language Translation, and Sentiment Analysis.<br>
 
