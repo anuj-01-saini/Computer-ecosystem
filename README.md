@@ -1,4 +1,4 @@
-# Computer-ecosystem
+# PERSONAL TRAVEL GUIDER
 This is a demo practise repository which is having mini travel guider web app
 
 A Smart Travel Guide Web Application helps travelers explore destinations by providing
