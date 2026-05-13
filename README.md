@@ -7,7 +7,9 @@ The Smart Travel Guide Web Application is an intelligent cloud-based web solutio
 This project combines the power of Artificial Intelligence with cloud computing to provide travelers with a smarter and more interactive travel experience.
 The application enables users to:
 🖼️ Analyze travel images and identify landmarks
+
 🌐 Translate foreign language text into English
+
 💬 Understand public opinions through sentiment analysis of reviews
 The system integrates multiple Azure AI services into a single user-friendly platform, making travel more convenient, informative, and multilingual.
 
@@ -22,8 +24,10 @@ The Azure Vision service analyzes uploaded travel images and provides:
 A traveler uploads an image of a monument and the system identifies the location with a description.
 
 🌐 Azure Translator API
+
 The Translator service converts foreign language text into English.
 🔥 Features
+
 🌍 Multi-language support
 🧾 Translation of menus, signboards, travel guides
 ⚡ Real-time text translation
