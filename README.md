@@ -1,80 +1,77 @@
 # PERSONAL TRAVEL GUIDER
 🌍✈️ Smart Travel Guide Web App using Microsoft Azure AI
-An AI-powered travel assistant that helps travelers explore destinations intelligently using Image Analysis, Language Translation, and Sentiment Analysis.
+An AI-powered travel assistant that helps travelers explore destinations intelligently using Image Analysis, Language Translation, and Sentiment Analysis.<br>
 
-🚀 Project Overview
+🚀 Project Overview<br>
 The Smart Travel Guide Web Application is an intelligent cloud-based web solution developed using Microsoft Azure Cognitive Services.
-This project combines the power of Artificial Intelligence with cloud computing to provide travelers with a smarter and more interactive travel experience.
-The application enables users to:
-🖼️ Analyze travel images and identify landmarks
+This project combines the power of Artificial Intelligence with cloud computing to provide travelers with a smarter and more interactive travel experience.<br>
+The application enables users to:<br>
+🖼️ Analyze travel images and identify landmarks<br>
+🌐 Translate foreign language text into English<br>
+💬 Understand public opinions through sentiment analysis of reviews<br>
+The system integrates multiple Azure AI services into a single user-friendly platform, making travel more convenient, informative, and multilingual.<br>
 
-🌐 Translate foreign language text into English
+☁️ Azure Services Used<br>
+👁️ Azure Vision API<br>
+The Azure Vision service analyzes uploaded travel images and provides:<br>
+🏛️ Landmark identification<br>
+📷 Object detection<br>
+📝 Automatic image captions/descriptions<br>
+🌄 Scene understanding<br>
+✨ Example Use Case<br>
+A traveler uploads an image of a monument and the system identifies the location with a description.<br>
 
-💬 Understand public opinions through sentiment analysis of reviews
-The system integrates multiple Azure AI services into a single user-friendly platform, making travel more convenient, informative, and multilingual.
+🌐 Azure Translator API<br>
+The Translator service converts foreign language text into English.<br>
+🔥 Features<br>
+<br>
+🌍 Multi-language support<br>
+🧾 Translation of menus, signboards, travel guides<br>
+⚡ Real-time text translation<br>
+✨ Example Use Case<br>
+A traveler scans a restaurant menu written in French and instantly receives the English translation.<br>
 
-☁️ Azure Services Used
-👁️ Azure Vision API
-The Azure Vision service analyzes uploaded travel images and provides:
-🏛️ Landmark identification
-📷 Object detection
-📝 Automatic image captions/descriptions
-🌄 Scene understanding
-✨ Example Use Case
-A traveler uploads an image of a monument and the system identifies the location with a description.
+😊 Azure Text Analytics API<br>
+The Text Analytics service performs sentiment analysis on travel reviews.<br>
+🔥 Features<br>
+😀 Detects Positive Reviews<br>
+😐 Detects Neutral Reviews<br>
+😞 Detects Negative Reviews<br>
+📊 Opinion understanding<br>
+✨ Example Use Case<br>
+Users can analyze hotel or destination reviews before planning trips.<br>
 
-🌐 Azure Translator API
+💡 Key Features of the Web Application<br>
+✅ AI-based Image Recognition<br>
+✅ Real-Time Language Translation<br>
+✅ Sentiment Analysis of Reviews<br>
+✅ Cloud-Based Intelligent Processing<br>
+✅ User-Friendly Interface<br>
+✅ Interactive Travel Assistance<br>
+✅ Multilingual Support<br>
 
-The Translator service converts foreign language text into English.
-🔥 Features
+🎯 Objectives of the Project<br>
+🌍 Enhance travel experience using AI<br>
+🧠 Integrate multiple Azure AI services<br>
+💬 Provide multilingual communication support<br>
+📊 Help travelers make informed decisions<br>
+☁️ Demonstrate practical cloud AI implementation<br>
 
-🌍 Multi-language support
-🧾 Translation of menus, signboards, travel guides
-⚡ Real-time text translation
-✨ Example Use Case
-A traveler scans a restaurant menu written in French and instantly receives the English translation.
+📌 Applications<br>
+🏨 Tourism Industry<br>
+✈️ Smart Travel Assistants<br>
+🗺️ Travel Recommendation Systems<br>
+🌐 Multilingual Tourist Support<br>
+📱 AI-Powered Travel Platforms<br>
 
-😊 Azure Text Analytics API
-The Text Analytics service performs sentiment analysis on travel reviews.
-🔥 Features
-😀 Detects Positive Reviews
-😐 Detects Neutral Reviews
-😞 Detects Negative Reviews
-📊 Opinion understanding
-✨ Example Use Case
-Users can analyze hotel or destination reviews before planning trips.
+📸 Future Enhancements<br>
+🚀 Voice-based translation<br>
+🚀 Real-time camera object detection<br>
+🚀 Personalized travel recommendations<br>
+🚀 Chatbot integration using Azure OpenAI<br>
+🚀 GPS-based location intelligence<br>
 
-💡 Key Features of the Web Application
-✅ AI-based Image Recognition
-✅ Real-Time Language Translation
-✅ Sentiment Analysis of Reviews
-✅ Cloud-Based Intelligent Processing
-✅ User-Friendly Interface
-✅ Interactive Travel Assistance
-✅ Multilingual Support
-
-🎯 Objectives of the Project
-🌍 Enhance travel experience using AI
-🧠 Integrate multiple Azure AI services
-💬 Provide multilingual communication support
-📊 Help travelers make informed decisions
-☁️ Demonstrate practical cloud AI implementation
-
-📌 Applications
-🏨 Tourism Industry
-✈️ Smart Travel Assistants
-🗺️ Travel Recommendation Systems
-🌐 Multilingual Tourist Support
-📱 AI-Powered Travel Platforms
-
-📸 Future Enhancements
-🚀 Voice-based translation
-🚀 Real-time camera object detection
-🚀 Personalized travel recommendations
-🚀 Chatbot integration using Azure OpenAI
-🚀 GPS-based location intelligence
-
-👨‍💻 Author
-ANUJ SAINI
-🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning
-💡 Passionate about Cloud Computing, AI, and Intelligent Web Applications
+👨‍💻 Author<br>
+ANUJ SAINI<br>
+🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning<br>
+💡 Passionate about Cloud Computing, AI, and Intelligent Web Applications<br>
