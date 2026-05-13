@@ -75,3 +75,7 @@ Users can analyze hotel or destination reviews before planning trips.<br>
 ANUJ SAINI<br>
 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning<br>
 💡 Passionate about Cloud Computing, AI, and Intelligent Web Applications<br>
+
+<img width="1448" height="820" alt="Screenshot 2026-05-13 at 11 41 55 PM" src="https://github.com/user-attachments/assets/90505db1-bb59-434d-8ffb-94215463fc1d" />
+
+
