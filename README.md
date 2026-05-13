@@ -41,14 +41,6 @@ The Text Analytics service performs sentiment analysis on travel reviews.<br>
 ✨ Example Use Case<br>
 Users can analyze hotel or destination reviews before planning trips.<br>
 
-🛠️ Technologies Used
-Technology	Purpose
-Streamlit	Web Application Framework
-Microsoft Azure	Cloud AI Services
-Azure Vision API	Image Analysis
-Azure Translator API	Language Translation
-Azure Text Analytics API	Sentiment Analysis
-Python	Backend Logic
 💡 Key Features of the Web Application<br>
 ✅ AI-based Image Recognition<br>
 ✅ Real-Time Language Translation<br>
